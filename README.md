@@ -1,4 +1,0 @@
-ER
-==
-
-Electrical Resistivity
