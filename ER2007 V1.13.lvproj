@@ -51,66 +51,68 @@
 			<Item Name="ag33xxx - Utility Default Instrument Setup.vi" Type="VI" URL="../ag33xxx_u.llb/ag33xxx - Utility Default Instrument Setup.vi"/>
 		</Item>
 		<Item Name="Sub VIs" Type="Folder">
-			<Item Name="AC2250 Measure (Main).vi" Type="VI" URL="../SUB Vis/AC2250 Measure (Main).vi"/>
-			<Item Name="AC2250 Measurement Channel.vi" Type="VI" URL="../SUB Vis/AC2250 Measurement Channel.vi"/>
-			<Item Name="AC2250 Measurement Mode.vi" Type="VI" URL="../SUB Vis/AC2250 Measurement Mode.vi"/>
-			<Item Name="Append, Replace, Cancel or New.vi" Type="VI" URL="../SUB Vis/Append, Replace, Cancel or New.vi"/>
-			<Item Name="Build Cal Array.vi" Type="VI" URL="../SUB Vis/Build Cal Array.vi"/>
-			<Item Name="Calculate Resistivity Parameters.vi" Type="VI" URL="../SUB Vis/Calculate Resistivity Parameters.vi"/>
-			<Item Name="Cell Status Data File Functions.vi" Type="VI" URL="../SUB Vis/Cell Status Data File Functions.vi"/>
-			<Item Name="Convert Array to String.vi" Type="VI" URL="../SUB Vis/Convert Array to String.vi"/>
-			<Item Name="Convert Radian or Degrees.vi" Type="VI" URL="../SUB Vis/Convert Radian or Degrees.vi"/>
-			<Item Name="Convert Spreadsheet Text to Table.vi" Type="VI" URL="../SUB Vis/Convert Spreadsheet Text to Table.vi"/>
-			<Item Name="Convert Thermistor Reading (scaler).vi" Type="VI" URL="../SUB Vis/Convert Thermistor Reading (scaler).vi"/>
+			<Item Name="AC2250 Configure.vi" Type="VI" URL="../Sub VIs/AC2250 Configure.vi"/>
+			<Item Name="AC2250 Initialize.vi" Type="VI" URL="../Sub VIs/AC2250 Initialize.vi"/>
+			<Item Name="AC2250 Measure (Main).vi" Type="VI" URL="../Sub VIs/AC2250 Measure (Main).vi"/>
+			<Item Name="AC2250 Measurement Channel.vi" Type="VI" URL="../Sub VIs/AC2250 Measurement Channel.vi"/>
+			<Item Name="AC2250 Measurement Mode.vi" Type="VI" URL="../Sub VIs/AC2250 Measurement Mode.vi"/>
+			<Item Name="Append, Replace, Cancel or New.vi" Type="VI" URL="../Sub VIs/Append, Replace, Cancel or New.vi"/>
+			<Item Name="Build Cal Array.vi" Type="VI" URL="../Sub VIs/Build Cal Array.vi"/>
+			<Item Name="Calculate Resistivity Parameters.vi" Type="VI" URL="../Sub VIs/Calculate Resistivity Parameters.vi"/>
+			<Item Name="Cell Status Data File Functions.vi" Type="VI" URL="../Sub VIs/Cell Status Data File Functions.vi"/>
+			<Item Name="Convert Array to String.vi" Type="VI" URL="../Sub VIs/Convert Array to String.vi"/>
+			<Item Name="Convert Radian or Degrees.vi" Type="VI" URL="../Sub VIs/Convert Radian or Degrees.vi"/>
+			<Item Name="Convert Spreadsheet Text to Table.vi" Type="VI" URL="../Sub VIs/Convert Spreadsheet Text to Table.vi"/>
+			<Item Name="Convert Thermistor Reading (scaler).vi" Type="VI" URL="../Sub VIs/Convert Thermistor Reading (scaler).vi"/>
 			<Item Name="ER2007 Are You Sure Popup Panel.vi" Type="VI" URL="../SUB Vis/ER2007 Are You Sure Popup Panel.vi"/>
-			<Item Name="ER2007 Background DAQ Loop.vi" Type="VI" URL="../SUB Vis/ER2007 Background DAQ Loop.vi"/>
-			<Item Name="ER2007 Calibration Panel.vi" Type="VI" URL="../SUB Vis/ER2007 Calibration Panel.vi"/>
-			<Item Name="ER2007 Current Values Panel.vi" Type="VI" URL="../SUB Vis/ER2007 Current Values Panel.vi"/>
-			<Item Name="ER2007 Data History Panel.vi" Type="VI" URL="../ER2007 Data History Panel.vi"/>
-			<Item Name="ER2007 Get Cell Data.vi" Type="VI" URL="../ER2007 Get Cell Data.vi"/>
-			<Item Name="ER2007 Maintenance Panel.vi" Type="VI" URL="../ER2007 Maintenance Panel.vi"/>
-			<Item Name="ER2007 Password Popup Panel.vi" Type="VI" URL="../ER2007 Password Popup Panel.vi"/>
-			<Item Name="ER2007 System Setup Panel.vi" Type="VI" URL="../ER2007 System Setup Panel.vi"/>
-			<Item Name="ER2007 Take Data Popup Panel.vi" Type="VI" URL="../ER2007 Take Data Popup Panel.vi"/>
-			<Item Name="ER2007 Test Definition Panel.vi" Type="VI" URL="../ER2007 Test Definition Panel.vi"/>
-			<Item Name="ER2007 Utilities Menu Panel.vi" Type="VI" URL="../ER2007 Utilities Menu Panel.vi"/>
-			<Item Name="File Open Logic.vi" Type="VI" URL="../SUB Vis/File Open Logic.vi"/>
-			<Item Name="File Read Options.vi" Type="VI" URL="../SUB Vis/File Read Options.vi"/>
-			<Item Name="Get Cell Pressures and Temperatures.vi" Type="VI" URL="../SUB Vis/Get Cell Pressures and Temperatures.vi"/>
-			<Item Name="Get VPA 1 Values.vi" Type="VI" URL="../SUB Vis/Get VPA 1 Values.vi"/>
-			<Item Name="Get VPA 2 Values.vi" Type="VI" URL="../SUB Vis/Get VPA 2 Values.vi"/>
-			<Item Name="Get VPA 3 Values.vi" Type="VI" URL="../SUB Vis/Get VPA 3 Values.vi"/>
-			<Item Name="Get VPA 4 Values.vi" Type="VI" URL="../SUB Vis/Get VPA 4 Values.vi"/>
-			<Item Name="Get VPA 5 Values.vi" Type="VI" URL="../SUB Vis/Get VPA 5 Values.vi"/>
+			<Item Name="ER2007 Background DAQ Loop.vi" Type="VI" URL="../Sub VIs/ER2007 Background DAQ Loop.vi"/>
+			<Item Name="ER2007 Get Cell Data.vi" Type="VI" URL="../Sub VIs/ER2007 Get Cell Data.vi"/>
+			<Item Name="File Open Logic.vi" Type="VI" URL="../Sub VIs/File Open Logic.vi"/>
+			<Item Name="File Read Options.vi" Type="VI" URL="../Sub VIs/File Read Options.vi"/>
+			<Item Name="Get Cell Pressures and Temperatures.vi" Type="VI" URL="../Sub VIs/Get Cell Pressures and Temperatures.vi"/>
+			<Item Name="Get VPA 1 Values.vi" Type="VI" URL="../Sub VIs/Get VPA 1 Values.vi"/>
+			<Item Name="Get VPA 2 Values.vi" Type="VI" URL="../Sub VIs/Get VPA 2 Values.vi"/>
+			<Item Name="Get VPA 3 Values.vi" Type="VI" URL="../Sub VIs/Get VPA 3 Values.vi"/>
+			<Item Name="Get VPA 4 Values.vi" Type="VI" URL="../Sub VIs/Get VPA 4 Values.vi"/>
+			<Item Name="Get VPA 5 Values.vi" Type="VI" URL="../Sub VIs/Get VPA 5 Values.vi"/>
 			<Item Name="Global ER2007.vi" Type="VI" URL="../Controls/Global ER2007.vi"/>
-			<Item Name="Make AtoD Channel Parameters.vi" Type="VI" URL="../SUB Vis/Make AtoD Channel Parameters.vi"/>
-			<Item Name="Make Digital I-O Invert Arrays.vi" Type="VI" URL="../SUB Vis/Make Digital I-O Invert Arrays.vi"/>
-			<Item Name="New Get VPA 1 Values.vi" Type="VI" URL="../New Get VPA 1 Values.vi"/>
-			<Item Name="Print Graph Image.vi" Type="VI" URL="../Print Graph Image.vi"/>
-			<Item Name="Read Calibration File.vi" Type="VI" URL="../SUB Vis/Read Calibration File.vi"/>
-			<Item Name="Read Cell Status File.vi" Type="VI" URL="../SUB Vis/Read Cell Status File.vi"/>
-			<Item Name="Read Defaults File.vi" Type="VI" URL="../SUB Vis/Read Defaults File.vi"/>
-			<Item Name="Read Header and Spreadsheet File.vi" Type="VI" URL="../SUB Vis/Read Header and Spreadsheet File.vi"/>
-			<Item Name="Remove Non-Numeric Columns.vi" Type="VI" URL="../SUB Vis/Remove Non-Numeric Columns.vi"/>
-			<Item Name="Sample Request Control.vi" Type="VI" URL="../SUB Vis/Sample Request Control.vi"/>
-			<Item Name="Sample Timer Functions.vi" Type="VI" URL="../SUB Vis/Sample Timer Functions.vi"/>
-			<Item Name="SCC-TC0x Calculate Temperatures.vi" Type="VI" URL="../SUB Vis/SCC-TC0x Calculate Temperatures.vi"/>
-			<Item Name="Switch Box Auto Mode Control.vi" Type="VI" URL="../Switch Box Auto Mode Control.vi"/>
-			<Item Name="Switch Box Cell Select Control.vi" Type="VI" URL="../Switch Box Cell Select Control.vi"/>
-			<Item Name="Switch Box Resistor Select Control.vi" Type="VI" URL="../Switch Box Resistor Select Control.vi"/>
-			<Item Name="Switch Box Signal Select Control.vi" Type="VI" URL="../Switch Box Signal Select Control.vi"/>
-			<Item Name="Temperature to Volts.vi" Type="VI" URL="../SUB Vis/Temperature to Volts.vi"/>
-			<Item Name="Volts to Temperature.vi" Type="VI" URL="../SUB Vis/Volts to Temperature.vi"/>
-			<Item Name="Write Calibration File.vi" Type="VI" URL="../SUB Vis/Write Calibration File.vi"/>
-			<Item Name="Write Cell Status File.vi" Type="VI" URL="../SUB Vis/Write Cell Status File.vi"/>
-			<Item Name="Write Chars To File.vi" Type="VI" URL="../SUB Vis/Write Chars To File.vi"/>
-			<Item Name="Write Defaults File.vi" Type="VI" URL="../SUB Vis/Write Defaults File.vi"/>
-			<Item Name="Write ER2007 Data File.vi" Type="VI" URL="../SUB Vis/Write ER2007 Data File.vi"/>
-			<Item Name="Write GCD Error Log File.vi" Type="VI" URL="../SUB Vis/Write GCD Error Log File.vi"/>
-			<Item Name="Write to Excel Worksheet.vi" Type="VI" URL="../SUB Vis/Write to Excel Worksheet.vi"/>
-			<Item Name="Write VPA Error Log File.vi" Type="VI" URL="../SUB Vis/Write VPA Error Log File.vi"/>
+			<Item Name="Make AtoD Channel Parameters.vi" Type="VI" URL="../Sub VIs/Make AtoD Channel Parameters.vi"/>
+			<Item Name="Make Digital I-O Invert Arrays.vi" Type="VI" URL="../Sub VIs/Make Digital I-O Invert Arrays.vi"/>
+			<Item Name="New Get VPA 1 Values.vi" Type="VI" URL="../Sub VIs/New Get VPA 1 Values.vi"/>
+			<Item Name="Print Graph Image.vi" Type="VI" URL="../Sub VIs/Print Graph Image.vi"/>
+			<Item Name="Read Calibration File.vi" Type="VI" URL="../Sub VIs/Read Calibration File.vi"/>
+			<Item Name="Read Cell Status File.vi" Type="VI" URL="../Sub VIs/Read Cell Status File.vi"/>
+			<Item Name="Read Defaults File.vi" Type="VI" URL="../Sub VIs/Read Defaults File.vi"/>
+			<Item Name="Read Header and Spreadsheet File.vi" Type="VI" URL="../Sub VIs/Read Header and Spreadsheet File.vi"/>
+			<Item Name="Remove Non-Numeric Columns.vi" Type="VI" URL="../Sub VIs/Remove Non-Numeric Columns.vi"/>
+			<Item Name="Sample Request Control.vi" Type="VI" URL="../Sub VIs/Sample Request Control.vi"/>
+			<Item Name="Sample Timer Functions.vi" Type="VI" URL="../Sub VIs/Sample Timer Functions.vi"/>
+			<Item Name="SCC-TC0x Calculate Temperatures.vi" Type="VI" URL="../Sub VIs/SCC-TC0x Calculate Temperatures.vi"/>
+			<Item Name="Switch Box Auto Mode Control.vi" Type="VI" URL="../Sub VIs/Switch Box Auto Mode Control.vi"/>
+			<Item Name="Switch Box Cell Select Control.vi" Type="VI" URL="../Sub VIs/Switch Box Cell Select Control.vi"/>
+			<Item Name="Switch Box Resistor Select Control.vi" Type="VI" URL="../Sub VIs/Switch Box Resistor Select Control.vi"/>
+			<Item Name="Switch Box Signal Select Control.vi" Type="VI" URL="../Sub VIs/Switch Box Signal Select Control.vi"/>
+			<Item Name="Temperature to Volts.vi" Type="VI" URL="../Sub VIs/Temperature to Volts.vi"/>
+			<Item Name="Volts to Temperature.vi" Type="VI" URL="../Sub VIs/Volts to Temperature.vi"/>
+			<Item Name="Write Calibration File.vi" Type="VI" URL="../Sub VIs/Write Calibration File.vi"/>
+			<Item Name="Write Cell Status File.vi" Type="VI" URL="../Sub VIs/Write Cell Status File.vi"/>
+			<Item Name="Write Chars To File.vi" Type="VI" URL="../Sub VIs/Write Chars To File.vi"/>
+			<Item Name="Write Defaults File.vi" Type="VI" URL="../Sub VIs/Write Defaults File.vi"/>
+			<Item Name="Write ER2007 Data File.vi" Type="VI" URL="../Sub VIs/Write ER2007 Data File.vi"/>
+			<Item Name="Write GCD Error Log File.vi" Type="VI" URL="../Sub VIs/Write GCD Error Log File.vi"/>
+			<Item Name="Write to Excel Worksheet.vi" Type="VI" URL="../Sub VIs/Write to Excel Worksheet.vi"/>
+			<Item Name="Write VPA Error Log File.vi" Type="VI" URL="../Sub VIs/Write VPA Error Log File.vi"/>
 		</Item>
+		<Item Name="ER2007 Calibration Panel.vi" Type="VI" URL="../ER2007 Calibration Panel.vi"/>
+		<Item Name="ER2007 Current Values Panel.vi" Type="VI" URL="../ER2007 Current Values Panel.vi"/>
+		<Item Name="ER2007 Data History Panel.vi" Type="VI" URL="../ER2007 Data History Panel.vi"/>
+		<Item Name="ER2007 Maintenance Panel.vi" Type="VI" URL="../ER2007 Maintenance Panel.vi"/>
+		<Item Name="ER2007 Password Popup Panel.vi" Type="VI" URL="../ER2007 Password Popup Panel.vi"/>
+		<Item Name="ER2007 System Setup Panel.vi" Type="VI" URL="../ER2007 System Setup Panel.vi"/>
+		<Item Name="ER2007 Take Data Popup Panel.vi" Type="VI" URL="../ER2007 Take Data Popup Panel.vi"/>
+		<Item Name="ER2007 Test Definition Panel.vi" Type="VI" URL="../ER2007 Test Definition Panel.vi"/>
 		<Item Name="ER2007 Test Panel.vi" Type="VI" URL="../ER2007 Test Panel.vi"/>
+		<Item Name="ER2007 Utilities Menu Panel.vi" Type="VI" URL="../ER2007 Utilities Menu Panel.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -423,6 +425,7 @@
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="XDNodeRunTimeDep.lvlib" Type="Library" URL="/&lt;vilib&gt;/Platform/TimedLoop/XDataNode/XDNodeRunTimeDep.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
