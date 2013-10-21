@@ -50,6 +50,13 @@
 		<Item Name="ag33xxx_u" Type="Folder">
 			<Item Name="ag33xxx - Utility Default Instrument Setup.vi" Type="VI" URL="../ag33xxx_u.llb/ag33xxx - Utility Default Instrument Setup.vi"/>
 		</Item>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="ER2007 GCD Sel State Enum.ctl" Type="VI" URL="../Controls/ER2007 GCD Sel State Enum.ctl"/>
+			<Item Name="ER2007 GCD State Cluster.ctl" Type="VI" URL="../Controls/ER2007 GCD State Cluster.ctl"/>
+		</Item>
+		<Item Name="Mock Ups" Type="Folder">
+			<Item Name="ER2007 Test Panel Mock Up.vi" Type="VI" URL="../Mock Ups/ER2007 Test Panel Mock Up.vi"/>
+		</Item>
 		<Item Name="Sub VIs" Type="Folder">
 			<Item Name="AC2250 Configure.vi" Type="VI" URL="../Sub VIs/AC2250 Configure.vi"/>
 			<Item Name="AC2250 Initialize.vi" Type="VI" URL="../Sub VIs/AC2250 Initialize.vi"/>
@@ -104,14 +111,15 @@
 			<Item Name="Write VPA Error Log File.vi" Type="VI" URL="../Sub VIs/Write VPA Error Log File.vi"/>
 		</Item>
 		<Item Name="ER2007 Calibration Panel.vi" Type="VI" URL="../ER2007 Calibration Panel.vi"/>
+		<Item Name="ER2007 Cell Data Cluster.ctl" Type="VI" URL="../Controls/ER2007 Cell Data Cluster.ctl"/>
 		<Item Name="ER2007 Current Values Panel.vi" Type="VI" URL="../ER2007 Current Values Panel.vi"/>
 		<Item Name="ER2007 Data History Panel.vi" Type="VI" URL="../ER2007 Data History Panel.vi"/>
 		<Item Name="ER2007 Maintenance Panel.vi" Type="VI" URL="../ER2007 Maintenance Panel.vi"/>
 		<Item Name="ER2007 Password Popup Panel.vi" Type="VI" URL="../ER2007 Password Popup Panel.vi"/>
+		<Item Name="ER2007 Signal Select Enum.ctl" Type="VI" URL="../Controls/ER2007 Signal Select Enum.ctl"/>
 		<Item Name="ER2007 System Setup Panel.vi" Type="VI" URL="../ER2007 System Setup Panel.vi"/>
 		<Item Name="ER2007 Take Data Popup Panel.vi" Type="VI" URL="../ER2007 Take Data Popup Panel.vi"/>
 		<Item Name="ER2007 Test Definition Panel.vi" Type="VI" URL="../ER2007 Test Definition Panel.vi"/>
-		<Item Name="ER2007 Test Panel.vi" Type="VI" URL="../ER2007 Test Panel.vi"/>
 		<Item Name="ER2007 Utilities Menu Panel.vi" Type="VI" URL="../ER2007 Utilities Menu Panel.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
