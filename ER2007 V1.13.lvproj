@@ -120,6 +120,7 @@
 		<Item Name="ER2007 System Setup Panel.vi" Type="VI" URL="../ER2007 System Setup Panel.vi"/>
 		<Item Name="ER2007 Take Data Popup Panel.vi" Type="VI" URL="../ER2007 Take Data Popup Panel.vi"/>
 		<Item Name="ER2007 Test Definition Panel.vi" Type="VI" URL="../ER2007 Test Definition Panel.vi"/>
+		<Item Name="ER2007 Test Panel.vi" Type="VI" URL="../ER2007 Test Panel.vi"/>
 		<Item Name="ER2007 Utilities Menu Panel.vi" Type="VI" URL="../ER2007 Utilities Menu Panel.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
